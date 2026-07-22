@@ -10,10 +10,10 @@ resources:
 
 images:
 - name: lindkon/broadcaster
-  newTag: e0d0d935050fef29f6ca70d1c59e1ed084ee5048
+  newTag: 1fb8d0a7cd92c74deb64cd43b079f26c5a59e799
 - name: lindkon/get-image
-  newTag: e0d0d935050fef29f6ca70d1c59e1ed084ee5048
+  newTag: 1fb8d0a7cd92c74deb64cd43b079f26c5a59e799
 - name: lindkon/todo-backend
-  newTag: e0d0d935050fef29f6ca70d1c59e1ed084ee5048
+  newTag: 1fb8d0a7cd92c74deb64cd43b079f26c5a59e799
 - name: lindkon/todo-main
-  newTag: e0d0d935050fef29f6ca70d1c59e1ed084ee5048
+  newTag: 1fb8d0a7cd92c74deb64cd43b079f26c5a59e799
